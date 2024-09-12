@@ -18,7 +18,7 @@ np.save('X_normalized.npy', X_normalized)
 
 X, X_normalized
 
-Output Produced:
+## Output Produced:
 
 (array([[0.4272085 , 0.73938683, 0.30739049, 0.47560545, 0.26809221],
         [0.95168975, 0.74927265, 0.18365677, 0.9644595 , 0.46775763],
