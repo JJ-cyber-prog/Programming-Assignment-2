@@ -70,4 +70,4 @@ A, div_by_3
         4761, 5184, 5625, 6084, 6561, 7056, 7569, 8100, 8649, 9216, 9801]))
 
 # Authors
-   Jerome Oldan
+## Jerome Oldan
