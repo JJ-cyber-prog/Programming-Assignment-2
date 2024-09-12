@@ -42,3 +42,6 @@ div_by_3 = A[A % 3 == 0]
 np.save('div_by_3.npy', div_by_3)
 
 A, div_by_3
+
+## Output Produced:
+
