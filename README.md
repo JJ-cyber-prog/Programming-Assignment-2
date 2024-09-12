@@ -3,7 +3,7 @@ This is my submission for the Second Programming Assignment. It introduces us to
 
 # Codes below:
 
-# Normalization Problem
+# Normalization Problem (Number 1)
 
 import numpy as np
 
@@ -31,7 +31,7 @@ X, X_normalized
         [-0.70261016,  0.3282984 , -0.44000331,  0.56473901, -1.02653254],
         [-0.29877776, -1.41846673, -0.90274889,  0.67654448, -0.24330362]]))
 
-# Divisible by 3 Problem
+# Divisible by 3 Problem (Number 2)
 
 import numpy as np
 
