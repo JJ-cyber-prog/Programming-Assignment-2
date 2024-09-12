@@ -71,3 +71,6 @@ A, div_by_3
 
 ## Authors
    Jerome Oldan
+
+## History Update
+   
