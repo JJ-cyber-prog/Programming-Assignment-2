@@ -1,7 +1,7 @@
 # Programming-Assignment-2
 This is my submission for the Second Programming Assignment. It introduces us to Numerical Python. In C++, we used to have cmath as the standard numerical library that provides mathematical functions for handling complex numbers but in Python, we now use NumPy.
 
-Codes below:
+# Codes below:
 
 # For number 1: Normalization Problem
 
