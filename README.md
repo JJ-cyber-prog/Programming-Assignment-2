@@ -3,7 +3,7 @@ This is my submission for the Second Programming Assignment. It introduces us to
 
 # Codes below:
 
-# For number 1: Normalization Problem
+# Normalization Problem
 
 import numpy as np
 
@@ -18,7 +18,7 @@ np.save('X_normalized.npy', X_normalized)
 
 X, X_normalized
 
-# For number 2: Divisible by 3 Problem
+# Divisible by 3 Problem
 
 import numpy as np
 
